@@ -1,9 +1,9 @@
 const cacheName = "SendArcade-SendBallWebGL-0.1.0";
 const contentToCache = [
-    "Build/SendBall.loader.js",
-    "Build/SendBall.framework.js",
-    "Build/SendBall.data",
-    "Build/SendBall.wasm",
+    "Build/SendBallWebBuild.loader.js",
+    "Build/SendBallWebBuild.framework.js",
+    "Build/SendBallWebBuild.data",
+    "Build/SendBallWebBuild.wasm",
     "TemplateData/style.css"
 
 ];
